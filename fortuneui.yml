@@ -1,0 +1,21 @@
+{
+  "fortuneService": {
+    "scheme": "http",
+    "address": "localhost:58497",
+    "randomFortunePath": "api/fortunes/random",
+    "allFortunesPath": "api/fortunes/all"
+  },
+  "Logging": {
+    "IncludeScopes": false,
+    "Debug": {
+      "LogLevel": {
+        "Fortune_Teller_UI": "Debug",
+      }
+    },
+    "Console": {
+      "LogLevel": {
+        "Fortune_Teller_UI": "Debug",
+      }
+    }
+  }
+}

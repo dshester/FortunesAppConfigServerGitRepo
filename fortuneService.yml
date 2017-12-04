@@ -1,0 +1,15 @@
+{
+  "Logging": {
+    "IncludeScopes": false,
+    "Debug": {
+      "LogLevel": {
+        "Fortune_Teller_Service": "Debug",
+      }
+    },
+    "Console": {
+      "LogLevel": {
+        "Fortune_Teller_Service": "Debug",
+     }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Logging": {
+    "IncludeScopes": false,
+    "Debug": {
+      "LogLevel": {
+        "Default": "Information",
+        "Steeltoe": "Debug",
+        "Pivotal": "Debug"
+      }
+    },
+    "Console": {
+      "LogLevel": {
+        "Default": "Information",
+        "Steeltoe": "Debug",
+        "Pivotal": "Debug"
+      }
+    }
+  }
+}
